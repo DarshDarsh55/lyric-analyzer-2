@@ -1,0 +1,4 @@
+langdetect==1.0.9
+textdistance==4.6.0
+phonemizer==3.2.1
+pandas==2.0.3
